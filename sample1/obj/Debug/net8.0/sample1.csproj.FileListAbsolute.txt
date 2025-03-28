@@ -16,3 +16,4 @@ C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\T
 C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\obj\Debug\net8.0\sample1.csproj.AssemblyReference.cache
 C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\obj\Debug\net8.0\sample1.csproj.Up2Date
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\bin\Debug\net8.0\SixLabors.ImageSharp.dll
