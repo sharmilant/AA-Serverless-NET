@@ -1,0 +1,15 @@
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\bin\Debug\net8.0\sample1.exe
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\bin\Debug\net8.0\sample1.deps.json
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\bin\Debug\net8.0\sample1.runtimeconfig.json
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\bin\Debug\net8.0\sample1.dll
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\bin\Debug\net8.0\sample1.pdb
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\obj\Debug\net8.0\sample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\obj\Debug\net8.0\sample1.AssemblyInfoInputs.cache
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\obj\Debug\net8.0\sample1.AssemblyInfo.cs
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\obj\Debug\net8.0\sample1.csproj.CoreCompileInputs.cache
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\obj\Debug\net8.0\sample1.sourcelink.json
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\obj\Debug\net8.0\sample1.dll
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\obj\Debug\net8.0\refint\sample1.dll
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\obj\Debug\net8.0\sample1.pdb
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\obj\Debug\net8.0\sample1.genruntimeconfig.cache
+C:\Users\Sharmilan\Documents\CentraleSupelec\3A\SM11\architecture applicatives\TP_dotnet\AA-Serverless-NET\sample1\obj\Debug\net8.0\ref\sample1.dll
